@@ -100,7 +100,7 @@ const Connect =() => {
   
       return (
 <>
-<div style={{backgroundColor:"blue",textAlign:"center", marginTop:"5%",color:"white"}}>
+<div style={{backgroundColor:"deeppink",textAlign:"center", marginTop:"5%",color:"white"}}>
        <strong > Let me help you develop a website </strong>
        <p style={{marginBottom:"0px"}}> I can develop a business, personal & company websites.</p> 
           <b >Am always active</b>
